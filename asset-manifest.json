@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Lens-Art-Studio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Lens-Art-Studio/static/js/main.e2382514.chunk.js",
+    "main.js.map": "/Lens-Art-Studio/static/js/main.e2382514.chunk.js.map",
+    "runtime-main.js": "/Lens-Art-Studio/static/js/runtime-main.47c75ece.js",
+    "runtime-main.js.map": "/Lens-Art-Studio/static/js/runtime-main.47c75ece.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Lens-Art-Studio/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.bab0a319.chunk.js": "/Lens-Art-Studio/static/js/2.bab0a319.chunk.js",
+    "static/js/2.bab0a319.chunk.js.map": "/Lens-Art-Studio/static/js/2.bab0a319.chunk.js.map",
+    "index.html": "/Lens-Art-Studio/index.html",
+    "precache-manifest.8d4c3de0804286cdaa07cf3363b4c8f6.js": "/Lens-Art-Studio/precache-manifest.8d4c3de0804286cdaa07cf3363b4c8f6.js",
+    "service-worker.js": "/Lens-Art-Studio/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Lens-Art-Studio/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/Lens-Art-Studio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bab0a319.chunk.js.LICENSE.txt": "/Lens-Art-Studio/static/js/2.bab0a319.chunk.js.LICENSE.txt",
+    "static/media/card.svg": "/Lens-Art-Studio/static/media/card.8f90eb4f.svg",
+    "static/media/slide3.svg": "/Lens-Art-Studio/static/media/slide3.4a28b5a5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47c75ece.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.bab0a319.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e2382514.chunk.js"
+  ]
+}
